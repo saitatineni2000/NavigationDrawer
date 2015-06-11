@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavigationDrawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+
+    <string-array name="Heroes">
+        <item>Arrow</item>
+        <item>Flash</item>
+        <item>Cananary</item>
+        <item>DeathStroke</item>
+        <item>ReverseFlash</item>
+    </string-array>
+</resources>
